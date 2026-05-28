@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ClinicaFit.Backend/ClinicaFit.Backend.csproj" />
+  <Project Path="ClinicaFit.Frontend/ClinicaFit.Frontend.csproj" />
+</Solution>
